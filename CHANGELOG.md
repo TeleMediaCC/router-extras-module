@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/nuxt-community/router-extras-module/compare/v1.2.0...v1.3.0) (2020-06-12)
+
+
+### Features
+
+* **docs:** forked docs updated ([b0d8e68](https://github.com/nuxt-community/router-extras-module/commit/b0d8e68671bbd1d53cc685b5d01ed617cff27744))
+
 ## [1.2.0](https://github.com/nuxt-community/router-extras-module/compare/v1.1.0...v1.2.0) (2020-06-12)
 
 
