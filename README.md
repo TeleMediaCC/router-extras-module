@@ -1,3 +1,10 @@
+## forked @nuxtjs/router-extras
+
+- upgraded dependencies
+- fix: watch did not works on Windows
+- feat: enabling to redefine alias name
+- feat: supporting unknown dynamic routes
+
 # @nuxtjs/router-extras
 
 [![npm version][npm-version-src]][npm-version-href]

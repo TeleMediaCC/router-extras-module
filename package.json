@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/router-extras",
+  "name": "@telemediacc/nuxt-router-extras",
   "version": "1.2.0",
   "description": "Extra Add-ons for nuxt router",
   "repository": "nuxt-community/router-extras-module",
