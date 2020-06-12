@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/nuxt-community/router-extras-module/compare/v1.1.0...v1.2.0) (2020-06-12)
+
+
+### Features
+
+* supporting unknown dynamic routes ([eafba70](https://github.com/nuxt-community/router-extras-module/commit/eafba70d805ce83f949db82cf66f6e466c6c9d1a))
+
+
+### Bug Fixes
+
+* watch did not works on Windows ([9674c4f](https://github.com/nuxt-community/router-extras-module/commit/9674c4f05238582774b13ee5f53ec8ecbb7fa039))
+
 ## [1.1.0](https://github.com/nuxt-community/router-extras-module/compare/v1.0.0...v1.1.0) (2020-03-12)
 
 
